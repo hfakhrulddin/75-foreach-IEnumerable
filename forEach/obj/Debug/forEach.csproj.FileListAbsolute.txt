@@ -1,0 +1,6 @@
+C:\Div\Origin\75-foreach-IEnumerable\forEach\bin\Debug\forEach.exe.config
+C:\Div\Origin\75-foreach-IEnumerable\forEach\obj\Debug\forEach.csprojResolveAssemblyReference.cache
+C:\Div\Origin\75-foreach-IEnumerable\forEach\bin\Debug\forEach.exe
+C:\Div\Origin\75-foreach-IEnumerable\forEach\bin\Debug\forEach.pdb
+C:\Div\Origin\75-foreach-IEnumerable\forEach\obj\Debug\forEach.exe
+C:\Div\Origin\75-foreach-IEnumerable\forEach\obj\Debug\forEach.pdb
